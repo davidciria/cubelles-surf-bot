@@ -12,5 +12,5 @@ The bot is designed in two Amazon Web Services (AWS) Lambda Functions:
 - **cubesurf_bot_responses:** Lambda that manages bot requests.
 
 ## APIs
-- Waves: [https://bancodatos.puertos.es/](https://bancodatos.puertos.es/)
+- Waves: [https://www.puertos.es/](https://www.puertos.es/)
 - Weather: [https://www.aemet.es/](https://www.aemet.es/)
